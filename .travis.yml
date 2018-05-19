@@ -11,3 +11,6 @@ cache:
     - '$HOME/.m2'
 
 script: "mvn clean install"
+
+notifications:
+  webhooks: https://fathomless-fjord-24024.herokuapp.com/notify
