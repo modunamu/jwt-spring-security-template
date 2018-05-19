@@ -4,8 +4,7 @@
 
 ## About
 This is a small framework for using **JWT (JSON Web Token)** with **Spring Boot 2**, **Swagger** and 
-**Spring Security**. This solution is partially based on the demo application [JWT Spring Security Demo]
-(https://github.com/szerhusenBC/jwt-spring-security-demo) and refered below `Resources`. Thanks to the author!
+**Spring Security**. This solution is partially based on the demo application [JWT Spring Security Demo](https://github.com/szerhusenBC/jwt-spring-security-demo) and refered below `Resources`. Thanks to the author!
 
 
 ## Requirements
@@ -82,11 +81,9 @@ This demo has been inspired by the following articles:
 
 * [Custom Error Message Handling for REST API](http://www.baeldung.com/global-error-handler-in-a-spring-rest-api)
 
-* [Spring Boot REST Application + Spring Security with JWT]
-(https://github.com/ThomasVitale/spring-security-jwt-rest-demo)
+* [Spring Boot REST Application + Spring Security with JWT](https://github.com/ThomasVitale/spring-security-jwt-rest-demo)
 
-# [Setting Up Swagger 2 with a Spring REST API]
-(http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
+* [Setting Up Swagger 2 with a Spring REST API](http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
 
 
 ## Copyright and license
