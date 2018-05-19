@@ -1,4 +1,7 @@
 # JWT Spring Security Rest Template
+[![Build Status](https://travis-ci.org/modunamu/jwt-spring-security-template.svg?branch=master)](https://travis-ci.org/modunamu/jwt-spring-security-template)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/modunamu/jwt-spring-security-template)
+
 ![Screenshot from running application on Swagger](etc/swagger.png?raw=true "Screenshot Swagger")
 
 
